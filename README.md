@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## JISUK BAEK
 
-백지숙의 홈페이지
+1. one
+2. two
+3. three
 
-You can use the [editor on GitHub](https://github.com/jisukb/jisukb.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/jisukb/jisukb.github.io/edit/main/README.md)
+[Jekyll](https://jekyllrb.com/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### about
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+update
 
 ```markdown
 Syntax highlighted code block
